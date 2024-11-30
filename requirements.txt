@@ -3,3 +3,4 @@ python-dotenv
 PyPDF2
 sentence-transformers
 faiss-cpu
+gunicorn==20.1.0
